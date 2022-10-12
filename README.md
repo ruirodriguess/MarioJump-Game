@@ -1,5 +1,7 @@
 # MyFirstGame-MarioJump
 
-My first game "Mario Jump" using HTML, CSS e JavaScript
+My first game - Mario Jump
+
+Using HTML, CSS e JavaScript
 
 - Visual Studio Code
