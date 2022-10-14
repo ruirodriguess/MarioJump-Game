@@ -2,6 +2,6 @@
 
 My first game - Mario Jump
 
-Using HTML, CSS e JavaScript
+- Using HTML, CSS e JavaScript
 
-- Visual Studio Code
+Visual Studio Code
